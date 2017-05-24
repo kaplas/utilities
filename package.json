@@ -1,0 +1,16 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "Micro utilities used by author's various different small microservices",
+  "main": "lib/index.js",
+  "repository": "git@github.com:kaplas/utilities.git",
+  "author": "Jouni Kaplas <jouni.kaplas@iki.fi>",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^7.3.3",
+    "microrouter": "^2.1.1"
+  }
+}
