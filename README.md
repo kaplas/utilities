@@ -9,3 +9,5 @@ npm run lint            # Lint code files
 now                     # Deploy to now.sh
 now alias               # Assign production aliases from now.json
 ```
+
+There is no CI setup – deployments are done manually using `now`.
